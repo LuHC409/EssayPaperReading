@@ -1,4 +1,7 @@
-# 🧬 Optical Chemical Structure Understanding (OCSU) — 论文速读 Part 1
+# 🧬 Optical Chemical Structure Understanding (OCSU) 
+## 参考文献
+
+- [OCSU: Optical Chemical Structure Understanding for Molecule-centric Scientific Discovery](https://arxiv.org/pdf/2501.15415)
 
 ## 一、研究背景与任务定位
 
