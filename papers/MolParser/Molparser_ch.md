@@ -1,4 +1,4 @@
-# 📘 MolParser 论文速读整理（四部分）
+# 📘 MolParser 论文速读整理
 ## 参考文献
 
 - [MolParser: End-to-end Visual Recognition of Molecule Structures in the Wild](https://arxiv.org/pdf/2411.11098)
